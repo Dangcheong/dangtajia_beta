@@ -1,20 +1,20 @@
 # Custom Language File for Launcher Customizer
 
 [ejs.app]
-title = "Launcher-Demo"
+title = "당타지아 베타테스트"
 
 [ejs.landing]
-mediaGitHubURL = "https://github.com/BabyBear7/launcher-demo"
+mediaGitHubURL = "https://cafe.naver.com/dangcheong1"
 mediaTwitterURL = "#"
 mediaInstagramURL = "#"
-mediaYouTubeURL = "#"
-mediaDiscordURL = "https://discord.gg/ReY7HJY7w6"
+mediaYouTubeURL = "https://www.youtube.com/@%EB%8B%B9%EC%B2%AD%EC%9C%A0%ED%8A%9C%EB%B8%8C"
+mediaDiscordURL = "https://discord.gg/2rsHcPS5eD"
 
 [ejs.settings]
 sourceGithubLink = "https://github.com/BabyBear7/launcher-demo"
 supportLink = "https://github.com/BabyBear7/launcher-demo/issues"
 
 [ejs.welcome]
-welcomeHeader = "런처 데모 페이지입니다"
+welcomeHeader = "당타지아 베타테스트에 오신 것을 환영합니다!"
 welcomeDescription = "해당 런처는 '아이곰(discord: babybear7)'에 의해 제작되었습니다."
 welcomeDescCTA = "몇번만 더 클릭하시면 됩니다!"
